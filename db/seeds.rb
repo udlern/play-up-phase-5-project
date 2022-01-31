@@ -28,6 +28,8 @@ comment8 = Comment.create(comment: "Feel free to call me 555-305-6908 for any ot
 comment9 = Comment.create(comment: "Are dogs allowed at this park?")
 comment10 = Comment.create(comment: "LET'S DO THIS!!!!")
 
+hello
+
 
 puts "done seeding comments"
 
